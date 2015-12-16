@@ -18,6 +18,7 @@ Guide
 
    license
    help
+   info
 
 
 Indices and tables
