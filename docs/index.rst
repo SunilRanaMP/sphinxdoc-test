@@ -10,6 +10,8 @@ Here is some text explaining some very complicated stuff::
 	print 'hello'
 	>>hello
 
+	My new awesome new module about news
+
 Guide
 *****
 
